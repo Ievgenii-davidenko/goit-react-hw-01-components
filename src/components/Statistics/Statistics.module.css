@@ -1,0 +1,53 @@
+.section {
+  margin-top: 60px;
+  width: 268px;
+  height: 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.h2 {
+  padding-top: 28px;
+  padding-bottom: 28px;
+  margin: 0;
+  font-size: 18px;
+  color: #4b545b;
+  text-transform: uppercase;
+}
+
+.ul {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.li {
+  width: 68px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+}
+
+.spanText {
+  margin: 0;
+  padding-bottom: 5px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.spanNumber {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+}

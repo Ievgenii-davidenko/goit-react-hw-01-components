@@ -1,0 +1,45 @@
+.ul {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 40px 0 0 0;
+  width: 400px;
+}
+
+.li {
+  display: flex;
+  height: 112px;
+  margin-bottom: 16px;
+  box-shadow: 1px 2px 4px 2px rgba(0, 0, 0, 0.2);
+}
+
+.img {
+  width: 95px;
+  height: 92px;
+  border-radius: 25%;
+  padding: 6px 16px 6px 16px;
+}
+
+.span {
+  width: 24px;
+  height: 24px;
+  margin-top: 43px;
+  margin-left: 16px;
+  background-color: rgb(74, 248, 74);
+  border-radius: 50px;
+}
+
+.spanActive {
+  composes: span;
+  background-color: rgb(74, 248, 74);
+}
+
+.spanOffline {
+  composes: span;
+  background-color: rgb(248, 80, 80);
+}
+
+.p {
+  padding-top: 13px;
+  font-size: 24px;
+}
