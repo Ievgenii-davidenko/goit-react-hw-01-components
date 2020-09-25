@@ -14,9 +14,9 @@
     "static/js/2.7ed1cf1c.chunk.js.LICENSE.txt": "/goit-react-hw-01-components/build/static/js/2.7ed1cf1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c5371af.js",
-    "static/js/2.7ed1cf1c.chunk.js",
-    "static/css/main.9a41ae7f.chunk.css",
-    "static/js/main.46b5f91c.chunk.js"
+    "build/static/js/runtime-main.5c5371af.js",
+    "build/static/js/2.7ed1cf1c.chunk.js",
+    "build/static/css/main.9a41ae7f.chunk.css",
+    "build/static/js/main.46b5f91c.chunk.js"
   ]
 }
